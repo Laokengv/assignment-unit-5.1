@@ -24,11 +24,9 @@ console.log('A little about me:', me);
     created above to set its value. 
   - Console.log fullName
 */
-let fullName = 'Laokeng Vang'
-if (me.firstName && me.lastName === fullName){
-
-}
+let fullName = me.firstName + ' ' + me.lastName;
 console.log('My full name is', fullName);
+
 /* 3. Nested arrays
   - Console.log your first favorite food
   - Console.log your last favorite food 
