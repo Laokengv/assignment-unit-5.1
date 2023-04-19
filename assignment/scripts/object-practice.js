@@ -11,7 +11,7 @@ console.log('***** Object Practice *****')
 const me = {
   firstName: 'Laokeng',
   lastName: 'Vang',
-  hasSiblings: 3,
+  hasSiblings: true,
   shoeCount: 18,
   faveThreeFoods: ['Bahn Mi', 'Burgers', 'Stir Fry']
   // TODO - add properties here
